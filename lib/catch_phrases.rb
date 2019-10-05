@@ -13,5 +13,3 @@ def any_phrase(phrase)
   phrase = "Do A Barrel Roll!"
   puts any_phrase(phrase)
 end
-
-any_phrase(phrase)
