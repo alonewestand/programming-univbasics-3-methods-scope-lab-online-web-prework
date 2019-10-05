@@ -14,4 +14,4 @@ def any_phrase(phrase)
   puts any_phrase(phrase)
 end
 
-any_phrase
+any_phrase(phrase)
